@@ -1,0 +1,75 @@
+iframe
+{
+    width: 100%;
+}
+body
+{
+    text-align: center;
+    background-image: linear-gradient(#262fd4, #ffffff);
+}
+.line
+{
+    height:6;
+    background-color:black;
+    width:70px;;
+    margin:8px auto;
+}
+a
+{
+    color: blue;
+}
+#list
+{
+    color: white;
+    display: inline;
+    font-family:fantasy;
+    font-size:20px;
+}
+#myNavbar
+{
+    z-index:10;
+    cursor:pointer;
+}
+a
+{
+    text-decoration: none;
+}
+.list:hover
+{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.navbar-brand
+{
+    color: white;
+    display: inline;
+    font-family:fantasy;
+    font-size:20px;
+}
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+}
+.achievement_text span
+{
+    color: orange;
+}
